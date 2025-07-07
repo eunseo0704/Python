@@ -1,0 +1,7 @@
+print("#"*30)
+print("    BMI 프로그램")
+print("#"*30)
+a=float(input("키(cm): "))
+b=float(input("몸무게(kg): "))
+print("#"*30)
+print("당신의 BMI는  입니다.")

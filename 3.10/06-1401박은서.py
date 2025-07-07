@@ -1,0 +1,6 @@
+m,r,d = map(int,input().split())
+print(예금 금액(원): m)
+print(예금 이율(%): r)
+print(예금 기간(년): d)
+print("#"*30)
+print(a원을 )

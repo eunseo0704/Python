@@ -1,0 +1,9 @@
+a=100
+b=50
+print(f'{a}+{b}={a+b}')
+print(f'{a}-{b}={a-b}')
+print(f'{a}*{b}={a*b}')
+print(f'{a}/{b}={a/b}')
+print(f'{a}**{b}={a**b}')
+print(f'{a}//{b}={a//b}')
+print(f'{a}%{b}={a%b}')

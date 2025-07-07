@@ -1,0 +1,16 @@
+
+print("^"*30)
+print("    연산프로그램")
+print("^"*30)
+#a=int(input("첫번쨰 값: "))
+#b=int(input("두번쨰 값: "))
+print("^"*30)
+print(f'{a}+{b}={a+b}')
+print(f'{a}-{b}={a-b}')
+print(f'{a}*{b}={a*b}')
+print(f'{a}/{b}={a/b}')
+print(f'{a}**{b}={a**b}')
+print(f'{a}//{b}={a//b}')
+print(f'{a}%{b}={a%b}')
+
+a,b=map(int,input(),split(''))
